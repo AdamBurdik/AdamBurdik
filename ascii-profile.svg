@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1012" height="378" viewBox="0 0 1012 378" role="img" aria-label="Adam Burdík">
+  <rect width="1012" height="378" rx="10" fill="#171B24" stroke="#343B4A" />
+  <g font-family="&#39;JetBrains Mono&#39;, &#39;SFMono-Regular&#39;, Consolas, &#39;Liberation Mono&#39;, Menlo, monospace" font-size="4.95">
+
+  </g>
+  <g font-family="&#39;JetBrains Mono&#39;, &#39;SFMono-Regular&#39;, Consolas, &#39;Liberation Mono&#39;, Menlo, monospace" font-size="17">
+    <text x="28.0" y="41.3" xml:space="preserve" fill="#FFFFFF">adam@burdík</text>
+    <line x1="154.6" y1="35.8" x2="984.0" y2="35.8" stroke="#667085" stroke-width="1.6" stroke-linecap="round" />
+    <text x="28.0" y="87.3" xml:space="preserve"><tspan fill="#667085">▪ </tspan><tspan fill="#FDA556">Host:</tspan></text>
+    <text x="109.6" y="87.3" xml:space="preserve" fill="#667085">.............................................................................</text>
+    <text x="984.0" y="87.3" xml:space="preserve" text-anchor="end" fill="#A4D6FF">Czechia</text>
+    <text x="28.0" y="110.3" xml:space="preserve"><tspan fill="#667085">▪ </tspan><tspan fill="#FDA556">Programming:</tspan></text>
+    <text x="181.0" y="110.3" xml:space="preserve" fill="#667085">..........................................</text>
+    <text x="984.0" y="110.3" xml:space="preserve" text-anchor="end" fill="#A4D6FF">Java, Python, C, Rust, HTML, Kotlin</text>
+    <text x="28.0" y="156.3" xml:space="preserve"><tspan fill="#FFFFFF">- Contact </tspan><tspan fill="#667085">───────────────────────────────────────────────────────────────────────────────────</tspan></text>
+    <text x="28.0" y="179.3" xml:space="preserve"><tspan fill="#667085">▪ </tspan><tspan fill="#FDA556">Email:</tspan></text>
+    <text x="119.8" y="179.3" xml:space="preserve" fill="#667085">...............................................................</text>
+    <text x="984.0" y="179.3" xml:space="preserve" text-anchor="end" fill="#A4D6FF">adamburdik@proton.me</text>
+    <text x="28.0" y="202.3" xml:space="preserve"><tspan fill="#667085">▪ </tspan><tspan fill="#FDA556">GitHub:</tspan></text>
+    <text x="130.0" y="202.3" xml:space="preserve" fill="#667085">........................................................................</text>
+    <text x="984.0" y="202.3" xml:space="preserve" text-anchor="end" fill="#A4D6FF">AdamBurdik</text>
+    <text x="28.0" y="225.3" xml:space="preserve"><tspan fill="#667085">▪ </tspan><tspan fill="#FDA556">Website:</tspan></text>
+    <text x="140.2" y="225.3" xml:space="preserve" fill="#667085">........................................................................</text>
+    <text x="984.0" y="225.3" xml:space="preserve" text-anchor="end" fill="#A4D6FF">adamix.me</text>
+    <text x="28.0" y="271.3" xml:space="preserve"><tspan fill="#FFFFFF">- GitHub Stats </tspan><tspan fill="#667085">──────────────────────────────────────────────────────────────────────────────</tspan></text>
+    <text x="28.0" y="294.3" xml:space="preserve"><tspan fill="#667085">▪ </tspan><tspan fill="#FDA556">Repos:</tspan></text>
+    <text x="119.8" y="294.3" xml:space="preserve" fill="#667085">.................................................................................</text>
+    <text x="984.0" y="294.3" xml:space="preserve" text-anchor="end" fill="#A4D6FF">63</text>
+    <text x="28.0" y="317.3" xml:space="preserve"><tspan fill="#667085">▪ </tspan><tspan fill="#FDA556">Stars:</tspan></text>
+    <text x="119.8" y="317.3" xml:space="preserve" fill="#667085">..................................................................................</text>
+    <text x="984.0" y="317.3" xml:space="preserve" text-anchor="end" fill="#A4D6FF">5</text>
+    <text x="28.0" y="340.3" xml:space="preserve"><tspan fill="#667085">▪ </tspan><tspan fill="#FDA556">Followers:</tspan></text>
+    <text x="160.6" y="340.3" xml:space="preserve" fill="#667085">.............................................................................</text>
+    <text x="984.0" y="340.3" xml:space="preserve" text-anchor="end" fill="#A4D6FF">18</text>
+  </g>
+</svg>
